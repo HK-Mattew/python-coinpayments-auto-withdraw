@@ -1,0 +1,1 @@
+python-coinpayments@git+https://github.com/HK-Mattew/python-coinpayments.git
